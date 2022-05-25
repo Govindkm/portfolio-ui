@@ -1,0 +1,9 @@
+.container_footer {
+    background: var(--color-bg-variant);
+    text-align: center;
+}
+
+.footer_socials a {
+    font-size: 1.5rem;
+    margin: 0 1rem;
+}
