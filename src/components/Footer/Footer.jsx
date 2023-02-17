@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer id='footer' className='container_footer'>
       <div className="copyrights">
-        <h4>Copyrights &#169;2022 All Rights Reserved</h4>
+        <h4>Copyrights &#169;{new Date().getFullYear()} All Rights Reserved</h4>
       </div>
       <div className="links">
         <div className='footer_socials'>
